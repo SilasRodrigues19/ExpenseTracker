@@ -42,7 +42,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Preview][product-screenshot]](https://github.com/SilasRodrigues19/Expense-Tracker/blob/main/public/preview.png?raw=true)
+[![Preview][product-screenshot]](https://github.com/SilasRodrigues19/Expense-Tracker/blob/master/public/preview.png?raw=true)
 
 This project was made during a React Tutorial by Boneky Lacerda
 
@@ -104,7 +104,7 @@ Project Link: [https://github.com/SilasRodrigues19/Expense-Tracker](https://gith
 [issues-url]: https://github.com/SilasRodrigues19/Expense-Tracker/issues
 [license-shield]: https://img.shields.io/github/license/SilasRodrigues19/Expense-Tracker.svg?style=for-the-badge
 [license-url]: https://github.com/SilasRodrigues19/Expense-Tracker/blob/master/LICENSE
-[product-screenshot]: https://github.com/SilasRodrigues19/Expense-Tracker/blob/main/public/preview.png?raw=true
+[product-screenshot]: https://github.com/SilasRodrigues19/Expense-Tracker/blob/master/public/preview.png?raw=true
 [license-url]: https://github.com/SilasRodrigues19/Expense-Tracker/blob/master/LICENSE
 
 <br>
