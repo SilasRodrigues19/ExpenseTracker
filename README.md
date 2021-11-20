@@ -60,7 +60,7 @@ Technologies used in the project.
 ### Libraries
 * [ReactJS](https://pt-br.reactjs.org/)
 * [Styled Components](https://styled-components.com/)
-* [Iconofy Design](https://iconify.design/)
+* [Iconify Design](https://iconify.design/)
 
 ### Font Script
 * [Font Awesome](https://fontawesome.com)
