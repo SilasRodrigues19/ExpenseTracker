@@ -43,7 +43,7 @@
   },
   "devDependencies": {
     "@iconify/react": "^4.1.0",
-    "@types/react": "^18.2.9",
+    "@types/react": "^18.2.12",
     "@types/styled-components": "^5.1.26"
   }
 }
